@@ -10,6 +10,7 @@ Student result analysis involves evaluating academic performance data to identif
 
 `STUDENTSCORES.csv`
 
+
 ## RUNNING THE ANALYSIS LOCALLY 
 Get the repository cloned or forked 
 ```bash 
@@ -26,7 +27,10 @@ pip install pandas
 pip install matplotlib
 pip install seaborn 
 ```
-
+Run the .ipynb file
+```bash
+RESULTSANALYSIS.ipynb
+```
 ## STEPS TAKEN FOR THE ANALYSIS
 - Importing the required modules in the workspace.
 - Reading the csv file in the workspace.
